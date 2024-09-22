@@ -26,7 +26,7 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 4. Then the Machine Learning algorithm is applied for the image processing
 
 
-![](intro-caption.gif)
+![](svm.png)
   
  
 ### Skills/ Concepts demonstrated
