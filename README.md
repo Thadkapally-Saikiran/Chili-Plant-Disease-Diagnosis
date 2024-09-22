@@ -77,7 +77,16 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 - Better image processing where it can extract image features
 
 
-## 
+### Steps to Use:
+---
+
+1. **Download or clone the repository**
+   ```shell
+   git clone https://github.com/Thadkapally-Saikiran/YouTube-Web-Application.git
+   
+  - Go to the directory
+  - Run the index.html file
+  - Start Exploring!!
 
 
 
