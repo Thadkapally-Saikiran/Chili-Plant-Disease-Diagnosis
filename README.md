@@ -16,9 +16,8 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 ### INTRODUCTION
  * China, with over 20% of the world’s population, faces a significant challenge due to limited arable land, which is less than 10% of its total area. Natural disasters can severely impact agricultural output, making stable agricultural development crucial for the country
  * Despite advancements in science and technology, crop yields have not significantly improved due to various natural and non-natural factors. Current research on crop diseases focuses on two main methods: traditional physical methods using spectral detection and intelligent recognition, which is challenging in mountainous areas
- * Time on Website: Average time spent on Website in minutes.
- * Length of Membership: How many years the customer has been a member ?
- * Yearly Amount Spent: How much amount the customer have spent ?
+ *  This paper proposes developing an Internet of Things (IoT) platform for complex mountainous environments to create a model for identifying crop diseases and pests. The goal is to enhance agricultural informatization, mitigate pest and disease damage, and improve crop yields
+
 
 ### Problem statement
 1. Analyze customer behavior and spending patterns:
