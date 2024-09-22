@@ -49,7 +49,7 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 4. High chances to predicate normal plant and disease plant
 
 
-![](heat-map.png)  
+![](proposed-system.png)  
 
 Pair-Plot
 ---
