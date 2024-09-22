@@ -60,26 +60,16 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 ## Result
 ![](accuracy-loss-graph.png) 
 
-
-Pair-Plot
 ---
-![](pairplot.png)
 
-### Recommendations
 
-Based on the analysis, we recommend the following actions:
-- Focus on improving app engagement
-   * Since there seems to be a strong correlation between time spent on the app and amount of money spent, you can focus on strategies to keep users engaged with the app for longer periods of time. This could include things like gamification, personalized recommendations, and exclusive offers for app users.
-- Target website visitors with retargeting campaigns
-  * Since time spent on the website also seems to be correlated with spending, you can target website visitors with retargeting campaigns to encourage them to make a purchase.
-- Develop strategies to retain members
-  * The data suggests that longer memberships lead to higher spending. You can develop strategies to retain members, such as offering loyalty programs and exclusive benefits for long-term members.
-- Develop strategies to retain existing members
-  *  This could include offering loyalty programs, discounts, or exclusive content to members.
-- Encourage customers to sign up for memberships
-  * You could offer a free trial or discount on the first year of membership.
-- Target your marketing campaigns to high-value customers
-  * These are the customers who are most likely to spend a lot of money on your platform.
+### ADVANTAGES
+
+- Performance is very high in Image Classification
+- We can easily distinguish the disease and no disease plants
+
+
+  
  
 ![](ecommerce_img.gif)       |     ![](ecommerce_img2.webp)   |   ![](ecommerce_img3.gif)
 
