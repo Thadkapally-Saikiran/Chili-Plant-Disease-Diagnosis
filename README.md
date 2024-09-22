@@ -53,6 +53,7 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 
 ![](resnet-cnn.png) 
 
+## Convolution Layer
 ![](convolution-layer.gif) 
 
 ![](pooling-layer.png) 
