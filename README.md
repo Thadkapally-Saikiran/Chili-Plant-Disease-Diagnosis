@@ -67,6 +67,11 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 
 - Performance is very high in Image Classification
 - We can easily distinguish the disease and no disease plants
+- Computation time is very less in the classifaction of the image
+- Works as fast as the image uploaded for testing disease or no disease
+- Better image processing where it can extract image features
+
+
 
 
   
