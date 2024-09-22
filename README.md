@@ -73,21 +73,6 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 
 
 
-
-  
- 
-![](ecommerce_img.gif)       |     ![](ecommerce_img2.webp)   |   ![](ecommerce_img3.gif)
-
-### References
-1. Popular Machine Learning Algorithms.
-   - [Kaggle](https://www.kaggle.com/code/marcovasquez/top-machine-learning-algorithms-beginner)
-2. Python Docs for your reference
-   - [Python Docs](https://docs.python.org/3/tutorial/)
-3. [Pandas](https://pandas.pydata.org/docs/)
-4. [Matplotlib](https://matplotlib.org/stable/users/getting_started/)
-5. [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
-6. [scikit-learn](https://scikit-learn.org/stable/getting_started.html)
-
 😄
 
 💻
