@@ -21,12 +21,11 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 
 ### EXISTING SYSTEM
 1. There is a system which is existing using Machine Learning(SVM).
+2. It is a system which cannot work on image processing directly
+3. The third party technique is used to convert image to numerical data
+4. Then the Machine Learning algorithm is applied for the image processing
 
   
-3. Identify key drivers of customer spending:
-   * By visualizing the correlations between engagement metrics and spending, you aim to pinpoint which factors have the strongest positive impact on customer spending
-4. Optimize customer engagement strategies:
-   * The insights from the data analysis can be used to develop strategies that encourage customer retention (lengthening memberships) and increase app engagement to drive higher spending.
  
 ### Skills/ Concepts demonstrated
 
