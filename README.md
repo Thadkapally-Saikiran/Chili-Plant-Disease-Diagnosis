@@ -32,9 +32,7 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
  
 ### DISADVANTAGES
 
-
-The following Python vs Machine Learning features were incorporated:
-- Importing the required libraries i.e. Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
+- Performance of these existing machine learning system is less
 - Reading the dataset using "Pandas"
 - Exploratory Data Analysis(EDA): Understanding and Cleaning the Data
 - Statistical Correlation Analysis
