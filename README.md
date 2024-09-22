@@ -1,7 +1,6 @@
 # DISEASE DETECTION IN CHILLI PLANTS AND REMOTE MONITORING OF AGRICULTURAL PARAMETERS
 
-![](intro-caption.gif)
----
+
 
 ### Table of Contents
 
