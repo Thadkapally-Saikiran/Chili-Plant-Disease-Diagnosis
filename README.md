@@ -25,6 +25,8 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 3. The third party technique is used to convert image to numerical data
 4. Then the Machine Learning algorithm is applied for the image processing
 
+
+![](intro-caption.gif)
   
  
 ### Skills/ Concepts demonstrated
