@@ -39,7 +39,21 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 - Cannot work on image processing directly
 
 
-### Visualization:
+### PROPOSED SYSTEM
+1. Here we proposed a plant disease detection system by using RestNet CNN
+2. In this RestNet CNN we are again using three layers for image processing. They are:
+    * Convolution layer
+    * Pooling layer
+    * Flatten layer
+
+
+
+
+
+
+
+
+
 
 Heat-Map   
 ---
