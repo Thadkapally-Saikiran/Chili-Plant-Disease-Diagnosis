@@ -30,7 +30,8 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 ![](svm-example.png)
   
  
-### Skills/ Concepts demonstrated
+### DISADVANTAGES
+
 
 The following Python vs Machine Learning features were incorporated:
 - Importing the required libraries i.e. Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
