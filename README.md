@@ -86,7 +86,7 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
    
   - Extract and Go to the directory
   - Keep a separate directory for Directories(Model,ChilliDataset,testImages) and Files(ChilliDiseaseDetection.py,README.txt,requirements.txt,svm.png). Delete remaining files of images
-  - click here
+  - clic
 
 
 
