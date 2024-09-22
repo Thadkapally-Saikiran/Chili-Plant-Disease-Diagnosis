@@ -19,9 +19,10 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
  *  This paper proposes developing an Internet of Things (IoT) platform for complex mountainous environments to create a model for identifying crop diseases and pests. The goal is to enhance agricultural informatization, mitigate pest and disease damage, and improve crop yields
 
 
-### Problem statement
-1. Analyze customer behavior and spending patterns:
-   * The goal is to understand how various customer engagement metrics (time on app, website, session length, membership duration) influence their yearly spending on an e-commerce platform
+### EXISTING SYSTEM
+1. There is a system which is existing using Machine Learning(SVM).
+
+  
 3. Identify key drivers of customer spending:
    * By visualizing the correlations between engagement metrics and spending, you aim to pinpoint which factors have the strongest positive impact on customer spending
 4. Optimize customer engagement strategies:
