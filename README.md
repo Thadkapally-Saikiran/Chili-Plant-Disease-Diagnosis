@@ -86,7 +86,8 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
    
   - Extract and Go to the directory
   - Keep a separate directory for Directories(Model,ChilliDataset,testImages) and Files(ChilliDiseaseDetection.py,README.txt,requirements.txt,svm.png). Delete remaining files of images
-  - clic
+  - project execution process 👉[click here!]([https://github.com/Thadkapally-Saikiran/Automobile-Prediction/blob/main/Automobile_data.csv](https://docs.google.com/document/d/19k9zjTGpG9Q9nXqRgLDyF-7B_tvkpsoa/edit?usp=sharing&ouid=106909648736442819650&rtpof=true&sd=true))
+  - Start Exploring!!!
 
 
 
