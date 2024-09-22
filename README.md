@@ -13,7 +13,7 @@
 ### ABSTRACT
 Agriculture, the backbone of nations, provides essential food and raw materials. Detecting chilli plant diseases is crucial due to their impact on food security. Traditional methods, often relying on visual inspection by experts, are commonly used for identifying these diseases. This work focuses on implementing Chilli plant disease detection and classification (PDDC-Net) using deep learning. It includes preprocessing to remove noise and normalize images. The PDDC-Net uses a ResNet-CNN for feature extraction and classification.
 
-### Data Sources
+### INTRODUCTION
 The dataset is downloaded from the [Kaggle](https://www.kaggle.com/datasets/srolka/ecommerce-customers).Also the dataset is attached in the Repository 👉 [click here](https://github.com/Thadkapally-Saikiran/Ecommerce-Customers/blob/main/Ecommerce%20Customers.csv)
 
 Working with the Ecommerce Customers csv file from the company. It has total 8 columns - Customer info such as Email, Address, and their color Avatar. Then it also has numerical value columns:
