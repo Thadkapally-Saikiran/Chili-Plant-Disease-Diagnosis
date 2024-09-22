@@ -85,7 +85,7 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
    git clone https://github.com/Thadkapally-Saikiran/Chili-Plant-Disease-Diagnosis.git
    
   - Go to the directory
-  - Run the index.html file
+  - Keep a separate directory for Models,
   - Start Exploring!!
 
 
