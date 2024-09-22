@@ -27,6 +27,7 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 
 
 ![](svm.png)
+![](svm-example.png)
   
  
 ### Skills/ Concepts demonstrated
