@@ -33,20 +33,11 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 ### DISADVANTAGES
 
 - Performance of these existing machine learning system is less
-- Reading the dataset using "Pandas"
-- Exploratory Data Analysis(EDA): Understanding and Cleaning the Data
-- Statistical Correlation Analysis
-- Visualizing Data using Seaborn library
-- Draw Insights from visual Data and conclude data driven decision upon problem-statement
-- Machine Learning Model Building
-   * Separating the dataset into features and target data
-   * Split the data set into train and test
-   * Implementing the Linear Regression Model
-   * Evaluating the prediction scores.
-   * Visualizing the results
-   * Repeat this for remaining Models(Decision Trees, RandomForest, K-NearestNeighbour, XGBoost, Adaboost)
-- Evaluating the model accuracy.
-- Compare the Models Evaluation Scores, Metrics and select the best Model performence
+- No image factors extraction has done in here
+- These system takes the more computational time
+- And also the no Guarantee of generating output that image classification can work better
+- Cannot work on image processing directly
+
 
 ### Visualization:
 
