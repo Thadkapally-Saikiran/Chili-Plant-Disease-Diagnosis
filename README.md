@@ -4,10 +4,10 @@
 
 ### Table of Contents
 
-- [Introduction](#ABSTRACT)
-- [Data Sources](#INTRODUCTION)
-- [Problem statement](#EXISTING-SYSTEM)
-- [Skills/ Concepts demonstrated](#PROPOSED-SYSTEM)
+- [ABSTRACT](#abstract)
+- [INTRODUCTION](#introduction)
+- [EXISTING SYSTEM](#existing-system)
+- [PROPOSED SYSTEM](#proposed-system)
 
 
 ### Introduction
