@@ -45,6 +45,10 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
     * Convolution layer
     * Pooling layer
     * Flatten layer
+3. Here the image processing directly takes place no need of third party technology to convert image to numerical data
+4. High chances to predicate normal plant and disease plant
+
+
 
 
 
