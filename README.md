@@ -77,7 +77,7 @@ Agriculture, the backbone of nations, provides essential food and raw materials.
 - Better image processing where it can extract image features
 
 
-### Steps to Use:
+### How to run it on your local machine
 ---
 
 1. **Download or clone the repository**
